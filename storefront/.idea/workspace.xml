@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5525bf6-4021-4071-8709-a30d466e4232" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/assets/styles/payment.scss" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/assets/styles/payment.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/assets/styles/productCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/assets/styles/productCard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/assets/styles/shoppingcart.scss" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/assets/styles/shoppingcart.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Intro/Intro.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Intro/Intro.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Main/MainContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Main/MainContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Main/MainGoods.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Main/MainGoods.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Main/MainGoodsItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Main/MainGoodsItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Main/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Main/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/components/Orders/OrderItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/components/Orders/OrderItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/stores/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/stores/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/stores/itemInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/stores/itemInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/views/PaymentDevilery.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/views/PaymentDevilery.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/views/ProductCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/views/ProductCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/views/SelectedCards.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/views/SelectedCards.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickshop/src/views/ShoppingCart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/clickshop/src/views/ShoppingCart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/likes/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storefront/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WFzWuJwWu2ac9QepmD9mrlOS3L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5525bf6-4021-4071-8709-a30d466e4232" name="Changes" comment="" />
+      <created>1696343154321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696343154321</updated>
+    </task>
+    <servers />
+  </component>
+</project>
